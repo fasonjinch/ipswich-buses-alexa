@@ -1,0 +1,29 @@
+{
+  "name": "ipswich-buses-alexa",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa skill for Ipswich Buses (UK) timetables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasonjinch/ipswich-buses-alexa.git"
+  },
+  "keywords": [
+    "Ipswich",
+    "Buses",
+    "Alexa",
+    "Lambda",
+    "Timetables"
+  ],
+  "author": "Fason Jinch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fasonjinch/ipswich-buses-alexa/issues"
+  },
+  "homepage": "https://github.com/fasonjinch/ipswich-buses-alexa#readme",
+  "dependencies": {
+    "alexa-sdk": "1.0.8"
+  }
+}
