@@ -2,7 +2,7 @@
 "use strict";
 const Alexa = require('alexa-sdk');
 const languageStrings = require('./config/languages');
-const data = require('data');
+const data = require('./assets/data');
 
 const handlers = {
 
