@@ -1,4 +1,6 @@
-var languageStrings = {
+/*jshint esversion: 6, node: true*/
+"use strict";
+const languageStrings = {
   'en-GB': {
       'translation': {
           'SAY_WELCOME_MESSAGE' : 'Hello, welcome to Ipswich Bbuses timetable',
@@ -21,4 +23,5 @@ var languageStrings = {
       }
   }
 };
+
 module.exports = languageStrings;

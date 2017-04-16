@@ -1,0 +1,4 @@
+UpdateIntent who developed this skill
+BusTimesIntent tell me when the next {service} is
+BusTimesIntent tell me when the next number {service}
+BusTimesIntent when is the next number {service} bus

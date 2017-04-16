@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "intent": "LanguageIntent",
+            "slots": [
+                {
+                    "name": "Language",
+                    "type": "LIST_OF_TECH"
+                }
+            ]
+        },
+        {
+            "intent": "AboutIntent"
+        }
+    ]
+}
